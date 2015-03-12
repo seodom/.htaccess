@@ -1,0 +1,2 @@
+# .htaccess
+Волшебный файл .htaccess
