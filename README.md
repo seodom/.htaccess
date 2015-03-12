@@ -1,7 +1,7 @@
 # .htaccess
 Волшебный файл .htaccess
 
-Copy [.htaccess](https://github.com/seodom/.htaccess/edit/master/README.md) file to your site to improve performance.
+Copy [.htaccess](https://github.com/seodom/.htaccess) file to your site to improve performance.
 
 Contributing
 ------------
